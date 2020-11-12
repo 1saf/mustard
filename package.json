@@ -1,0 +1,9 @@
+{
+  "name": "mustard",
+  "version": "0.0.1",
+  "description": "Standardise Errors within your projects",
+  "main": "index.js",
+  "author": "Ansaf Ahmed (@1saf)(contact@ansaf.me)",
+  "license": "MIT",
+  "private": false
+}
